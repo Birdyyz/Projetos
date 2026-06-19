@@ -1,0 +1,31 @@
+Compilar: 
+
+make
+chmod +x addDocsNum.sh                                                      # dar permissão ao script
+chmod +x addDocsAlfa.sh                                                     
+./dserver docs_num cache_size
+./dserver docs_alfa cache_size
+
+
+Noutro terminal, faz um teste com o cliente: correr o script
+
+./addDocsNum.sh Ncatalog.tsv
+./addDocsAlfa.sh                                       
+
+
+Comandos possíveis:
+
+./dclient -a "Romeo and Juliet" "William Shakespeare" "1997" "112.txt"      # indexar
+./dclient -c 1                                                              # consultar
+./dclient -l 1 "Romeo"                                                      # procurar linhas com palavra
+./dclient -s "praia"                                                        # procurar docs com palavra
+./dclient -s "praia" "nr_processes"                                         # procurar docs com restrição
+./dclient -d 1                                                              # deletar
+./dclient -f                                                                # sair do programa
+
+
+
+ver se o ficheiro está vazio: hexdump -C nomeDoFicheiro
+
+ver se a função foi alguma vez utilizada: grep -rn 'nomeDaFuncao'
+     

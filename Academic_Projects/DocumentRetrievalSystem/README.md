@@ -1,0 +1,1 @@
+Academic project developed for the Operating Systems course, 2nd year of the Bachelor's Degree in Computer Science (LCC), during the 2024–2025 academic year.

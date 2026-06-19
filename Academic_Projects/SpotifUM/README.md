@@ -1,0 +1,1 @@
+Academic project developed for the Object-Oriented Programming course, as part of the second year of the Bachelor's Degree in Computer Science (LCC), during the 2024–2025 academic year.

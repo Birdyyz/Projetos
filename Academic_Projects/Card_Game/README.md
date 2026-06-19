@@ -1,0 +1,1 @@
+Academic project developed for the Algorithms Laboratory I course, 1st year of the Bachelor's Degree in Computer Science (LCC), during the 2023–2024 academic year.

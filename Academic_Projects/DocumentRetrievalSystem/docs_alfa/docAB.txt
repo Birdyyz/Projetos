@@ -1,0 +1,13 @@
+memória sistema operativo memória kernel
+operativo processo sistema kernel memória processo
+sistema kernel kernel kernel processo processo kernel processo
+processo memória memória memória memória kernel
+ficheiro memória kernel kernel processo sistema operativo
+processo kernel sistema processo kernel memória
+processo ficheiro sistema operativo operativo processo ficheiro
+processo ficheiro memória sistema
+operativo operativo sistema processo
+ficheiro sistema operativo sistema processo kernel kernel ficheiro
+memória kernel kernel ficheiro memória
+sistema processo kernel processo kernel sistema operativo
+ficheiro ficheiro kernel sistema
