@@ -1,0 +1,1 @@
+Academic project developed for the Databases course (2025–2026), 3rd year of the Bachelor's Degree in Computer Science (LCC).
